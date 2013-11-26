@@ -4,6 +4,8 @@ github.com/costabile/sevenminuteworkout
 
 Eclipse project. Requires Android SDK.
 
+A timer app for the "Scientific 7-Minute Workout".
+
 Status: incomplete. The basic functionality is generally there but most aspects need to be completed and everything needs to be polished.
 TODO list in StartScreen.java.
 
