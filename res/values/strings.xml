@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">7-Minute Workout Timer</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="timer_default">00</string>
+    <string name="exercise_default">Get ready...</string>
+    <string name="exercise_image_desc">Image for the current exercise.</string>
+    <string name="title_activity_exercise">Exercise</string>
+    <string name="rest">Rest</string>
+    <string name="finished">Finished!</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string-array name="exercise_names">
+        <item>Jumping jacks</item>
+        <item>Wall sit</item>
+        <item>Push-ups</item>
+        <item>Abdominal crunches</item>
+        <item>Step-up onto chair</item>
+        <item>Squats</item>
+        <item>Triceps dips on chair</item>
+        <item>Plank</item>
+        <item>High knees running in place</item>
+        <item>Lunge</item>
+        <item>Push-up with rotation</item>
+        <item>Side plank</item>
+    </string-array>
+
+</resources>
